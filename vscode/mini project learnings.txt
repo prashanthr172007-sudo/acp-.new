@@ -1,0 +1,41 @@
+Use a 2D character array as a canvas of size 30 × 60.
+Initialize the canvas with blank spaces and provide a function to clear the canvas.
+Display the canvas in a user-friendly format.
+Implement a plot() function to draw individual pixels safely within canvas boundaries.
+Implement Bresenham's Line Drawing Algorithm for efficient line drawing.
+Draw a rectangle using user-provided corner coordinates.
+Draw a triangle using three user-provided vertices.
+Draw a circle using the Midpoint Circle Algorithm instead of the distance formula.
+Add a filled rectangle feature.
+Add a filled circle feature.
+Implement a flood fill algorithm to fill enclosed shapes.
+Add functionality to move a shape from one location to another.
+Add functionality to scale shapes (increase or decrease size).
+Add functionality to rotate shapes by a user-specified angle.
+Implement an undo operation using stack data structures.
+Implement a redo operation using stack data structures.
+Allow users to save the canvas to a text file.
+Allow users to load a previously saved canvas from a file.
+Add proper input validation to prevent invalid coordinates.
+Use modular programming with separate functions for each operation.
+Use appropriate comments explaining every major function and algorithm.
+Follow good programming practices such as meaningful variable names and error handling.
+Provide a menu-driven interface with options for all features.
+The program should be completely written in C language using standard libraries only.
+Display messages after every operation indicating success or failure
+
+Arrays and 2D Arrays
+Functions and Modular Programming
+Menu-Driven Program Design
+Bresenham's Line Drawing Algorithm
+Midpoint Circle Algorithm
+Coordinate Geometry Concepts
+File Handling in C
+Data Structures (Stack for Undo/Redo)
+Shape Transformations (Translation, Scaling, Rotation)
+Flood Fill Algorithm
+Boundary Checking and Input Validation
+Graphics Programming Fundamentals
+Algorithm Optimization
+Software Design and Code Reusability
+Problem Solving using Computational Geometry
